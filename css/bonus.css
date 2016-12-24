@@ -36,6 +36,12 @@
     .fly-in-text.hidden li:nth-child(11) {transform: translateX(50px) translateY(250px);}
 
 
+.me {
+    margin-top: 100px; 
+    border-radius: 10px;
+}
+
+
 .tech_summary ul {
 	display: inline-block;
 	vertical-align: top;
