@@ -91,7 +91,6 @@
   transform: scale(0);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-  /*font-weight: 600;*/
   margin: -52px 0 0 0;
   padding: 62px 15px 10px 15px;
 }
