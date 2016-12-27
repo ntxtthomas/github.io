@@ -1,8 +1,3 @@
-/*!
- * Vitality v1.4.0 (http://themes.startbootstrap.com/vitality-v1.4.0)
- * Copyright 2013-2016 Start Bootstrap Themes
- * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
- */
 
 // Load WOW.js on non-touch devices
 var isPhoneDevice = "ontouchstart" in document.documentElement;
