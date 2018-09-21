@@ -1,3 +1,5 @@
+arn:aws:s3:::terrythomas-my-loadbalancer-logs/ 
+
 {
   "name": "ntxtthomas-github.io",
   "version": "1.0.0",
